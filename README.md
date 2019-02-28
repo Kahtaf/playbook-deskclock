@@ -1,3 +1,5 @@
+Project moved to: https://gitlab.com/bitspice/playbook-deskclock/tree/master
+
 # Playbook Deskclock
 
 A simple desk clock for the Blackberry Playbook. Optimized for the Playbook screen, but CSS can be modified to better fit other tablets. 
